@@ -1,0 +1,9 @@
+{
+  "name": "AgriDoc AI (AgriGnan)",
+  "description": "An AI-powered digital crop doctor for farmers in Tamil Nadu. Detects diseases, suggests treatments, and provides voice assistance in Tamil.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
